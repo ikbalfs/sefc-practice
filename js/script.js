@@ -3,7 +3,7 @@
 
 // function
 // get values
-// count
+// counting
 // output
 
 
